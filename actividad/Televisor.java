@@ -1,5 +1,3 @@
-package ejercicio3;
-
 public class Televisor {
     private boolean encendido = false;
     private int volumen = 10;
