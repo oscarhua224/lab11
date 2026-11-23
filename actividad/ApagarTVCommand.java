@@ -1,5 +1,3 @@
-package ejercicio3;
-
 public class ApagarTVCommand implements Command {
     private Televisor televisor;
 
