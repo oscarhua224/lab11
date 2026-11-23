@@ -1,5 +1,3 @@
-package ejercicio3;
-
 public class BajarVolumenCommand implements Command {
     private Televisor televisor;
 
